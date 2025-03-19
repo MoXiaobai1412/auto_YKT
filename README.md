@@ -9,6 +9,8 @@
     requests，base64，apscheduler，selenium
 ## 原项目地址
  https://github.com/Ephemeral-Life/sopho-moron#
+## 新项目地址
+ https://github.com/MoXiaobai1412/auto_YKT/
 ## 硅基流动官网（买API用）
  https://account.siliconflow.cn/zh/login
 ### 注意：API可以自行购买，也可以找其他人买
