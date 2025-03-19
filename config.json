@@ -1,0 +1,6 @@
+{
+    "API_KEY": "",
+    "timeSkip": 20,
+    "model": "Qwen/Qwen2.5-VL-72B-Instruct",
+    "driverType": "Edge"
+}
