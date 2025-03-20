@@ -185,11 +185,11 @@ if __name__ == "__main__":
             getIntoClass()
         else:
             input("bot:Hello，初次相遇需要先做一些设置，手动扫码登录一次，让我获取你的cookies。按 Enter 以继续")
+            initConfig()
             getCookies()
             print("bot:完成了, 现在我将在每个整点自动登录一次，如果发现有课就会进入教室上课。")
             print("bot:挂在后台就好, 去做点真正有用的事情吧。\n")
             time.sleep(2)
-            initConfig()
             getIntoClass()
     except Exception as ex:  # don't you ever stop!
         print(ex)
